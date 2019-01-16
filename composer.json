@@ -3,6 +3,8 @@
     "description": "kfw core",
     "type": "library",
     "license": "MIT",
+    "minimum-stability": "dev",
+    "prefer-stable": true,
     "authors": [
         {
             "name": "nedoloogiy",
