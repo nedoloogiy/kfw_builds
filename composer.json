@@ -18,7 +18,7 @@
         }
     },
     "require": {
-        "gabordemooij/redbean": "dev-master"
+        "gabordemooij/redbean": "5.2"
     },
     "require-dev": {
         "phpunit/phpunit": "^7"
