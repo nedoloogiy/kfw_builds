@@ -1,5 +1,5 @@
 {
-    "name": "kosoy/kwf",
+    "name": "kosoy/kfw",
     "description": "kfw core",
     "type": "library",
     "license": "MIT",
@@ -9,6 +9,12 @@
             "email": "nedoloogiy@mail.ru"
         }
     ],
+    "autoload": {
+        "psr-4":{
+            "kfw\\": "kfw",
+            "app\\": "app"
+        }
+    },
     "require": {
         "gabordemooij/redbean": "dev-master"
     },
